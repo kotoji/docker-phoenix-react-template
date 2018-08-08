@@ -1,0 +1,6 @@
+/phoenix/app/*
+/mariadb/data/*
+/app/src/*
+!/app/src/index.tsx
+/app/dist/*
+!/app/dist/index.html
